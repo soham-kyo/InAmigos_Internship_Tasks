@@ -10,9 +10,9 @@ Each task lives in its own folder with a dedicated README explaining what it is,
 
 | # | Task | Description | Status | Link |
 |---|------|--------------|--------|------|
-| 1 | NGO Website | Static responsive HTML/CSS website for InAmigos Foundation | ✅ Done | [View Task 1](https://github.com/soham-kyo/InAmigos_Internship_Tasks/tree/main/TASK1) |
-| 2 | AI DA Report | Use AI tools to analyze a topic related to NGOs and prepare short report | ✅ Done | [View Task 2](https://github.com/soham-kyo/InAmigos_Internship_Tasks/tree/main/TASK2) |
-| 3 | _TBD_ | _Coming soon_ | ⏳ Pending | — |
+| 1 | NGO Awareness Webpage Creation | Create a webpage to spread awareness about our NGO projects and initiatives | ✅ Done | [View Task 1](https://github.com/soham-kyo/InAmigos_Internship_Tasks/tree/main/TASK1) |
+| 2 | AI-Powered Data Analysis Report | Use AI tools to analyze a topic related to social impact, NGOs, volunteering, fundraising, or education and prepare a short report | ✅ Done | [View Task 2](https://github.com/soham-kyo/InAmigos_Internship_Tasks/tree/main/TASK2) |
+| 3 | Volunteer Opportunity Data Compilation | Collect information about volunteer opportunities, internships, fellowships, or social initiatives available for students in India | ✅ Done | [View Task 3](https://github.com/soham-kyo/InAmigos_Internship_Tasks/tree/main/TASK3) |
 | 4 | _TBD_ | _Coming soon_ | ⏳ Pending | — |
 
 ---
